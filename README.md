@@ -1,2 +1,2 @@
 # NLP
-Language Processing
+Natural Language Processing
